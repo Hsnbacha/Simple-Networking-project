@@ -11,12 +11,12 @@ And here we should borrow 1 bit for the network part
 
 So the first octet will contain 8 bits
 
-11111111. 11111111. 11111111.10000000
+11111111.11111111.11111111.10000000
 Here we should use the number of borrowed bits to calculate the subnet mask so according to that we borrowed 1 bit. The meaning of that , the first  3 octet will have completely 1 and the last fourth octet we have the first one only and the others are 0 according to 1 2 4 8 16 32 64 128
 
-Then we need to convert this binary (11111111. 11111111. 11111111.10000000) into decimals :
+Then we need to convert this binary (11111111.11111111.11111111.10000000) into decimals :
 
-11111111. 11111111. 11111111.10000000
+11111111.11111111.11111111.10000000
 
 255.255.255. 128 => subnet mask	
 
