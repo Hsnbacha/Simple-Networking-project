@@ -60,7 +60,7 @@ And here we start configuration according to what topology we have created
 
 
 
-Subnet mask     block size
+Subnet mask  ------   block size
 
 128	------------------		128
 
