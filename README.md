@@ -2,7 +2,7 @@ Given Network addresses 192.168.40.0
 
 No. of subnets = 2
 
-2*N= no. of subnets ===== 2*N=2
+2'N= no. of subnets ===== 2'N=2   (' is to the power)
 
 N=1
 
