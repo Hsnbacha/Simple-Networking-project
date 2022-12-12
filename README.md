@@ -1,4 +1,5 @@
 Given Network addresses 192.168.40.0 
+
 No. of subnets = 2
 
 2*N= no. of subnets ===== 2*N=2
@@ -60,6 +61,7 @@ And here we start configuration according to what topology we have created
 
 
 Subnet mask     block size
+
 128	------------------		128
 
 192	------------------		64
