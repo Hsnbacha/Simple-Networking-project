@@ -1,3 +1,7 @@
+![Simple Networking ](https://github.com/Hsnbacha/Simple-Networking-project/blob/main/Network%20Designn.png)
+
+
+
 Given Network addresses 192.168.40.0 
 
 No. of subnets = 2
